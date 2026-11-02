@@ -1,0 +1,6 @@
+{
+  "name": "REDONE FINANCE — Manajemen Keuangan Operasional",
+  "description": "Aplikasi manajemen keuangan perusahaan berbasis aliran nominal dengan pencatatan transaksi single-entry, otomatisasi mutasi akun, persediaan nominal, kas & piutang, opname, dan laporan keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
